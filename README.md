@@ -1,9 +1,8 @@
-[![MasterHead](https://cdn-icons-png.flaticon.com/512/457/457090.png?w=740&t=st=1667505598~exp=1667506198~hmac=a9bdab262cb481254b8f08bd01350c72008855ac650e186a27e2d62994c0fb6e)
+
 
 <h1 align="center">Hi 👋, I'm Abdirahman Farah</h1>
-<h3 align="center">A passionate Computer science from Kenya.</h3>
+<h3 align="center">A passionate Computer science student from Kenya.</h3>
 
-<img align="right" alt="coding"  width="400"  src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdirahmanmanka&label=Profile%20views&color=0e75b6&style=flat" alt="abdirahmanmanka" /> </p>
 
