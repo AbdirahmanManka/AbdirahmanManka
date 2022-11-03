@@ -16,11 +16,9 @@
 
 - 👯 I’m looking to collaborate on **JavaScript projects**
 
-- 🤝 I’m looking for help with **Flutter**
+- 🤝 I’m looking for help with  with open source projects and contributions.
 
 - 😄 Pronouns: He/Him
-
--🤔 I’m looking for help with open source projects and contributions.
 
 - 💬 Ask me about **JavaScript and web-development**
 
