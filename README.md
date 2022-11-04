@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **Abdirahman.hudayfa@gmail.com**
 
-- ⚡ Fun fact **I watch like watching comedy videos and football.**
+- ⚡ Fun fact **I like watching comedy videos and football.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
