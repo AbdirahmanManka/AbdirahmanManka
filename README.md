@@ -12,15 +12,15 @@
 
 - 🔭 I’m currently studying **Computer science**
 
-- 🌱 I’m currently learning **React , flutter ,Node and working on my JavaScript skills.**
-
-- 👯 I’m looking to collaborate on **JavaScript projects**
+- 🌱 I’m currently learning **React ,Antd,Nodejs SQL  and working on my React skills**
+- I am also looking forward to learning React Native to build android and ios apps.
+- 👯 I’m looking to collaborate on **React Projects**
 
 - 🤝 I’m looking for help with  with open source projects and contributions.
 
 - 😄 Pronouns: He/Him
 
-- 💬 Ask me about **JavaScript and web-development**
+- 💬 Ask me about **JavaScript,React,Figma,Antd and web-development**
 
 - 📫 How to reach me **Abdirahman.hudayfa@gmail.com**
 
